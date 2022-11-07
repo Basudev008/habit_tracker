@@ -9,6 +9,7 @@ class WeekDate extends Component {
     var status = "";
     this.props.state.habits.map((habit) => {
       if (habit.title === currHabit.title) status = habit[`${this.props.date}`];
+      return habit;
     });
 
     return status;
