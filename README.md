@@ -1,3 +1,9 @@
+# Habit - Tracker App
+
+A react app using react router and redux store which displays various habits in detail view as well as in Week view.
+Also you can add habit in the app.
+You can change status of habits as - done, not done & none
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
