@@ -4,6 +4,8 @@ A react app using react router and redux store which displays various habits in 
 Also you can add habit in the app.
 You can change status of habits as - done, not done & none
 
+Hosted URL: https://habit-tracker8.netlify.app/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
